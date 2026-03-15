@@ -5,20 +5,30 @@ Trunk
 
 Die Eigenschaft, dass am Switch über denselben Port mehrere Vlan's übertragen werden können. 
 
+
 VLT
 
 (= Trunk-Port) Vlan-Trunk, Daten von mehreren Vlans über das selbe Kabel übertragen. 
+
 
 VTP
 
 Cisco Vlan-Protokoll, um Vlans in Cisco-Netzen zu konfigurieren. 
 
+
 Tagging
+
 Zum Datenpaket wird die Vlan-ID hinzugefügt, damit der Trunk-Port weiss, welches Datenpaket zu welchem Vlan gehört. 
 
-Trunk-Port : 		Der eine Port am Switch, an welchen alle Vlan's die Verbindung zum Router oder zu den nächsten Switches herstellen. 
 
-Access-Ports :		Ports, an denen die Endgeräte angeschlossen werden (Für die Endgeräte wird der Vlan-Tag vorab entfernt). 
+Trunk-Port
+
+Der eine Port am Switch, an welchen alle Vlan's die Verbindung zum Router oder zu den nächsten Switches herstellen. 
+
+
+Access-Ports
+
+Ports, an denen die Endgeräte angeschlossen werden (Für die Endgeräte wird der Vlan-Tag vorab entfernt). 
 
 Untagged Port : (= Access-Port) Gewöhnlicher Port am Switch für Endgeräte, welches nur einem Vlan zugeordnet ist. 
 

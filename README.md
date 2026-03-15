@@ -2,12 +2,15 @@
 
 
 Trunk
+
 Die Eigenschaft, dass am Switch über denselben Port mehrere Vlan's übertragen werden können. 
 
 VLT
+
 (= Trunk-Port) Vlan-Trunk, Daten von mehreren Vlans über das selbe Kabel übertragen. 
 
 VTP
+
 Cisco Vlan-Protokoll, um Vlans in Cisco-Netzen zu konfigurieren. 
 
 Tagging

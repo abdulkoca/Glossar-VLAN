@@ -1,13 +1,17 @@
 # Glossar-VLAN
 
 
-Trunk : 			Die Eigenschaft, dass am Switch über denselben Port mehrere Vlan's übertragen werden können. 
+Trunk
+Die Eigenschaft, dass am Switch über denselben Port mehrere Vlan's übertragen werden können. 
 
-VLT : 				(= Trunk-Port) Vlan-Trunk, Daten von mehreren Vlans über das selbe Kabel übertragen. 
+VLT
+(= Trunk-Port) Vlan-Trunk, Daten von mehreren Vlans über das selbe Kabel übertragen. 
 
-VTP : 				Cisco Vlan-Protokoll, um Vlans in Cisco-Netzen zu konfigurieren. 
+VTP
+Cisco Vlan-Protokoll, um Vlans in Cisco-Netzen zu konfigurieren. 
 
-Tagging : 			Zum Datenpaket wird die Vlan-ID hinzugefügt, damit der Trunk-Port weiss, welches Datenpaket zu welchem Vlan gehört. 
+Tagging
+Zum Datenpaket wird die Vlan-ID hinzugefügt, damit der Trunk-Port weiss, welches Datenpaket zu welchem Vlan gehört. 
 
 Trunk-Port : 		Der eine Port am Switch, an welchen alle Vlan's die Verbindung zum Router oder zu den nächsten Switches herstellen. 
 
